@@ -13,5 +13,5 @@
     
 ### clone后
     1、使用maven下载依赖包
-    maven install
+    mvn install
     2、idea安装插件lombok  
