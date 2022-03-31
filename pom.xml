@@ -19,7 +19,7 @@
     <name>${project.artifactId}</name>
 
     <properties>
-        <spring-boot.version>2.1.9.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <spring-cloud.version>Greenwich.SR3</spring-cloud.version>
         <spring-platform.version>Cairo-RELEASE</spring-platform.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
